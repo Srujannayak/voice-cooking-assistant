@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #fff7e6;
+  color: #333;
+  text-align: center;
+}
+
+header { background: #ffb84d; padding: 12px; border-radius: 8px; margin-bottom: 16px; }
+
+#controls button {
+  padding: 10px 14px;
+  margin: 6px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #ffaa00;
+  color: white;
+  cursor: pointer;
+}
+
+#step-text { margin: 14px 0; font-size: 20px; font-weight: 600; }
+
+#status { margin-top: 20px; font-size: 16px; color: green; }
+
+#timer { margin-top: 10px; font-weight: bold; }
